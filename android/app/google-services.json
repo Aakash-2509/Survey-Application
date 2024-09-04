@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "372139378422",
+    "project_id": "borderless-access",
+    "storage_bucket": "borderless-access.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372139378422:android:19cdb31b9af6f479b14ed7",
+        "android_client_info": {
+          "package_name": "com.example.borderaccess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372139378422-i6p588e9tacehs1dv5cp4j956j33ff70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGJqm1H2KBNv8yDjm98Vh5Uks4OOZjt70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372139378422-i6p588e9tacehs1dv5cp4j956j33ff70.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "372139378422-vnh7g2qmqooeeaq4q139km8tveqkkmuf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.borderaccess"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
